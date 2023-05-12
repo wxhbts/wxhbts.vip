@@ -1,4 +1,3 @@
-<?php header('Content-type: application/json; charset=UTF-8'); ?>
 {
 	"minVersion": "0.1",
 	"headerImage": "https://apt.cydiaa.com/images/sileo.png",
