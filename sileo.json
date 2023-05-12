@@ -1,0 +1,21 @@
+<?php header('Content-type: application/json; charset=UTF-8'); ?>
+{
+	"minVersion": "0.1",
+	"headerImage": "https://apt.cydiaa.com/images/sileo.png",
+	"tintColor":"#FF0000",
+	"tabs": [{
+		"tabname": "软件详情",
+		"views": [
+		{
+                    "useBoldText":true,
+                    "useBottomMargin":true,
+                    "class":"DepictionSubheaderView"
+        }, {
+		        	"markdown": "抱歉！该站点已停止运行\n\n请先删除apt.wxhbts.vip\n\n然后添加apt.wxhbts.pro\n\n",
+		        	"class": "DepictionMarkdownView"
+		},
+		 ],
+		"class": "DepictionStackView"
+	}, ],
+	"class": "DepictionTabView"
+}
