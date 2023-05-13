@@ -16,8 +16,8 @@
 			"openExternal": true,
 			"action": "https://apt.wxhbts.pro",
 			"class": "DepictionButtonView"
-		}, ],
+		}],
 		"class": "DepictionStackView"
-	}, ],
+	}],
 	"class": "DepictionTabView"
 }
