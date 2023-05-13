@@ -10,7 +10,7 @@
                     "useBottomMargin":true,
                     "class":"DepictionSubheaderView"
         }, {
-		        	"markdown": "抱歉！该站点已停止运行\n\n请先删除apt.wxhbts.vip\n\n然后添加apt.wxhbts.pro\n\n",
+		        	"markdown": "抱歉！该站点已停止运行\n\n网站将于2023-08-08停止运行\n\n请先删除apt.wxhbts.vip\n\n然后添加apt.wxhbts.pro\n\n",
 		        	"class": "DepictionMarkdownView"
 		},
 		 ],
