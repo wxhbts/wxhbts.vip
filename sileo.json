@@ -1,19 +1,22 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://apt.cydiaa.com/images/sileo.png",
-	"tintColor":"#FF0000",
+	"tintColor": "#FF0000",
 	"tabs": [{
 		"tabname": "软件详情",
-		"views": [
-		{
-                    "useBoldText":true,
-                    "useBottomMargin":true,
-                    "class":"DepictionSubheaderView"
-        }, {
-		        	"markdown": "抱歉！该站点已停止运行\n\n网站将于2023-08-08停止运行\n\n请先删除apt.wxhbts.vip\n\n然后添加apt.wxhbts.pro\n\n",
-		        	"class": "DepictionMarkdownView"
-		},
-		 ],
+		"views": [{
+			"useBoldText": true,
+			"useBottomMargin": true,
+			"class": "DepictionSubheaderView"
+		}, {
+			"markdown": "抱歉！该站点已停止运行\n\n网站将于2023-08-08停止服务\n\n请先删除apt.wxhbts.vip\n\n然后添加apt.wxhbts.pro\n\n",
+			"class": "DepictionMarkdownView"
+		}, {
+			"text": "点击添加新源地址",
+			"openExternal": true,
+			"action": "https://apt.wxhbts.pro",
+			"class": "DepictionButtonView"
+		}, ],
 		"class": "DepictionStackView"
 	}, ],
 	"class": "DepictionTabView"
